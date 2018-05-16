@@ -1,0 +1,49 @@
+{
+    "user-profile": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": { "N": "1" },
+                    "name": { "S": "Pete Mitchell" },
+                    "nick": { "S": "Maverick" }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": { "N": "2" },
+                    "name": { "S": "Tom Kazansky" },
+                    "nick": { "S": "Iceman" }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": { "N": "3" },
+                    "name": { "S": "Nick Bradshaw" },
+                    "nick": { "S": "Goose" }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": { "N": "4" },
+                    "name": { "S": "Sam Wells" },
+                    "nick": { "S": "Merlin" }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": { "N": "5" },
+                    "name": { "S": "Mike Metcalf" },
+                    "nick": { "S": "Viper" }
+                }
+            }
+        }                        
+    ]
+}
